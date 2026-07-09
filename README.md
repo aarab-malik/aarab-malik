@@ -18,9 +18,9 @@ Data science student based in **Islamabad**, focused on machine learning, data-d
 
 ## Featured Projects
 
-| **Brainrot UNO** | **Easy Samaan** |
+| **UNO Minimax Agent** | **Brainrot UNO** |
 |---|---|
-| **[Brainrot UNO](https://github.com/aarab-malik/brainrot-uno)**<br/>UNO reimagined with customizable rules. Play against bots powered by Minimax and Expectimax algorithms or against friends. <br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | **[Easy Samaan Frontend](https://github.com/aarab-malik/easy-samaan-frontend)**<br/>Frontend for a Fundamentals of Software Engineering project — a unified shopping experience built with modern web technologies. <br/><br/>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **[UNO Minimax Agent](https://github.com/aarab-malik/uno-minimax-expectimax-agent)**<br/>Decision-making AI agent for UNO using Minimax and Expectimax, with experiments and analysis in notebooks. <br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | **[Brainrot UNO](https://github.com/aarab-malik/brainrot-uno)**<br/>UNO reimagined with configurable rules and bot opponents powered by adversarial search algorithms. <br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 ---
 
@@ -28,13 +28,13 @@ Data science student based in **Islamabad**, focused on machine learning, data-d
 
 | **[Rush Hour](https://github.com/aarab-malik/rush-hour)** | **[Shutdown Scheduler](https://github.com/aarab-malik/shutdown-scheduler)** | **[Unified Shopping System](https://github.com/aarab-malik/unified-shopping-system)** |
 |---|---|---|
-| Video game built in C++ using OpenGL. | Windows application for scheduling system shutdowns. | FSE project backend — unified shopping system in Python. |
+| C++/OpenGL software project focused on performance and real-time interaction. | Windows utility for scheduling and automation of system shutdown tasks. | Python backend for a unified shopping platform with practical data handling workflows. |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-| **[UNO Minimax Agent](https://github.com/aarab-malik/uno-minimax-expectimax-agent)** | **[Word Shooter](https://github.com/aarab-malik/wordShooter-Game)** |
+| **[Easy Samaan Frontend](https://github.com/aarab-malik/easy-samaan-frontend)** | **[Word Shooter](https://github.com/aarab-malik/wordShooter-Game)** |
 |---|---|
-| AI agent using Minimax and Expectimax algorithms for UNO gameplay. | C++ word shooter game with arcade-style gameplay. |
-| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| TypeScript/React frontend for an end-to-end shopping system with scalable UI architecture. | C++ project demonstrating game logic, interaction design, and systems programming fundamentals. |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 
 ---
 
