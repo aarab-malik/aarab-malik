@@ -1,19 +1,18 @@
 # Aarab Malik
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=3B82F6&center=true&vCenter=true&width=680&lines=Software+Engineering+Student;Game+Developer+%26+AI+Enthusiast;Building+full-stack+applications+from+Islamabad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=3B82F6&center=true&vCenter=true&width=680&lines=Data+Science+Student;Aspiring+AI%2FML+Engineer;Building+AI-powered+applications+from+Islamabad)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-Software developer based in **Islamabad**, working on games, full-stack applications, and AI-powered projects.
+Data science student based in **Islamabad**, focused on machine learning, data-driven systems, and AI-powered applications.
 
-- Currently building **Brainrot UNO** — a card game with Minimax and Expectimax bots
-- Game development with **C++** and **OpenGL**
-- Exploring AI agents and adversarial search algorithms
-- Full-stack development with projects like **Easy Samaan**
+- Aspiring **AI/ML Engineer** building practical machine learning projects
+- Exploring AI agents, model-driven decision systems, and adversarial search algorithms
+- Working on data-focused and full-stack projects like **Easy Samaan**
 - Open to collaboration and opportunities
-- Focus areas: game development, AI/ML, full-stack engineering
+- Focus areas: data science, AI/ML engineering, and intelligent systems
 
 ---
 
@@ -41,9 +40,9 @@ Software developer based in **Islamabad**, working on games, full-stack applicat
 
 ## Highlights
 
-| Game Development | AI & Algorithms | Full-Stack | Desktop Apps |
+| Data Science | AI & Algorithms | Full-Stack | Applied Projects |
 |---|---|---|---|
-| OpenGL games in C++ | Minimax and Expectimax agents | React and Python backends | C# Windows utilities |
+| Data-driven problem solving | Minimax and Expectimax agents | React and Python backends | Practical software projects |
 
 ---
 
