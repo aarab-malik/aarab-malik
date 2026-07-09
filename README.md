@@ -18,9 +18,9 @@ Data science student based in **Islamabad**, focused on machine learning, data-d
 
 ## Featured Projects
 
-| **UNO Minimax Agent** | **Brainrot UNO** |
-|---|---|
-| **[UNO Minimax Agent](https://github.com/aarab-malik/uno-minimax-expectimax-agent)**<br/>Decision-making AI agent for UNO using Minimax and Expectimax, with experiments and analysis in notebooks. <br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | **[Brainrot UNO](https://github.com/aarab-malik/brainrot-uno)**<br/>UNO reimagined with configurable rules and bot opponents powered by adversarial search algorithms. <br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Unified Shopping System** | **Shutdown Scheduler** | **Brainrot UNO** |
+|---|---|---|
+| **[Unified Shopping System](https://github.com/aarab-malik/unified-shopping-system)**<br/>Python backend for a unified shopping platform with practical data handling and scalable service design. <br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **[Shutdown Scheduler](https://github.com/aarab-malik/shutdown-scheduler)**<br/>Windows automation utility for scheduling system shutdown workflows with a user-friendly desktop experience. <br/><br/>![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | **[Brainrot UNO](https://github.com/aarab-malik/brainrot-uno)**<br/>UNO reimagined with configurable rules and bot opponents powered by adversarial search algorithms. <br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 ---
 
