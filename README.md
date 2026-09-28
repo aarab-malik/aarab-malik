@@ -59,6 +59,26 @@ I’ve also explored adversarial search through configurable game agents, implem
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarab-malik&theme=tokyonight" alt="GitHub stats" />
 </p>
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarab-malik&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aarab-malik&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarab-malik&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aarab-malik&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub streak" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/aarab-malik/aarab-malik/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution activity" />
+</p>
 ## Connect
 
 <p align="center">
